@@ -30,8 +30,8 @@ var express = require('express'),
 var config = {
   version: 'v1',
   url: 'https://stream.watsonplatform.net/speech-to-text/api',
-  username: '<username>',
-  password: '<password>'
+  username: 'bd9f522c-3695-4609-804b-0906cf329563',
+  password: 'S8dpVi0DiDz8'
 };
 
 // if bluemix credentials exists, then override local
